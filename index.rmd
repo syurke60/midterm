@@ -1,0 +1,28 @@
+---
+title: "index.rmd"
+output: html_document
+---
+
+10:00 Midterm
+Susan Yurkewicz
+
+October 15, 2017
+
+Problem 1
+Make a webpage that looks exactly like the one found here except that it has your name as author. Make it live on github, naming your repository whatever you would like to. Send me the url on the slack channel midterm_url.
+
+-----------------------
+You will be adding the code you create in the next two problems to a dashboard. Use your Mercyhurst email ID to name the file. For instance, if your email address is jones01@lakers.mercyhurst.edu, then you should name your file jones01.Rmd.
+
+Problem 2
+Look at the first plot in the dashboard here. It is a scatter plot that plots wins (W) against earned runs (ER) for pitchers. You can find these two columns in the Pitching table. The data in the plot is limited to years 2000 and beyond.
+
+Reproduce this plot by first extracting the data you need and then using ggplot.
+
+Problem 3
+Look at the second plot in the dashboard here. It is a bar plot that indicates the four players who had the highest average salary and what that average salary was for each.
+
+Reproduce this plot by first extracting the data you need and then using ggplot. (Hint: these four players are the only players with an average salary greater than 14 million dollars.) The bars of the plot do not need to be in increasing or decreasing order.
+
+Submission
+Use this link to submit your Rmd file.
